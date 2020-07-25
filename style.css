@@ -1,0 +1,65 @@
+
+body{
+    text-align: center;
+    
+    width:45%;
+    padding: 50px;
+    position: relative;
+    left: 340px;
+    
+    background:lightblue}
+ .row{
+     display: inline;
+ }   
+
+.main{
+    box-shadow: 0 0 5px rgba(25,25,25,.25);
+    padding: 50px;
+    
+    border-radius: 16px;
+    background: #fff;
+}
+ul{
+   margin-left:90px;
+}
+
+
+
+button {border-radius: 25px;
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 6px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    
+    cursor: pointer;
+    
+
+}
+input{
+    
+   
+    padding: 10px;
+    border-radius: 25px;
+    
+}
+
+
+
+
+i{
+    color: red;
+}
+.btn{
+    margin-right: 10px;
+}
+
+
+.list{
+    position : relative;
+    right: 100px;  
+    justify-content: space-around;
+}
